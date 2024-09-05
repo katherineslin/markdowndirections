@@ -1,6 +1,6 @@
-#How To Make Instant Ramen Better
+# How To Make Instant Ramen Better
 Instant ramen is an easy and quick alternative to making dinner. Sometimes simple in taste, here is one recipe to make it better.
-##Materials/Ingredients
+## Materials/Ingredients
 1. Pot
 2. Instant Ramen
 3. Soy Sauce
@@ -9,7 +9,7 @@ Instant ramen is an easy and quick alternative to making dinner. Sometimes simpl
 6. Sausage
 7. Knife
 
-##Steps
+## Steps
 1. Put pot onto stove, fill pot with 3/4 water, turn stove on and wait for water to boil
 2. After water starts to boil, open instant ramen packet and put the noodles inside the water
 3. As noodles began to soften, lower heat slightly and open the instant ramen seasoning packet(s) and add it to the pot
