@@ -16,7 +16,7 @@ Instant ramen is an easy and quick alternative to making dinner. Sometimes simpl
 3. As noodles soften, lower heat slightly and open instant ramen seasoning packet(s) and add to the pot
 4. Immediatly after adding seasoning, add soy sauce and seseme oil
 5. After noodles have fully softened and seasoning and sauces have incorporated, turn heat up, making sure soup is boiling again
-6. When soup is boiling, crack an egg and add to the ramen
+6. Crack an egg and add to the ramen
 7. For runnier egg immedietly turn heat off and remove from stove, letting egg cook with residual heat of soup. For less runny egg, turn heat down slightly and let soup sit on stove
 8. As egg cooks, cut up peices of sausage with knife and microwave in a plate
 9. If ramen is still on stove, turn off stove and remove pot
